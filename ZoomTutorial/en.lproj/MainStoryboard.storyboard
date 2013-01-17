@@ -4,6 +4,33 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="1930"/>
     </dependencies>
     <scenes>
+        <!--View Controller-->
+        <scene sceneID="z2N-uK-AzG">
+            <objects>
+                <viewController id="5Rd-ub-agA" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="f0Z-Dg-Vge">
+                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="ln9-5J-097">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="416"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <connections>
+                                    <outlet property="delegate" destination="5Rd-ub-agA" id="wGZ-dM-9Gf"/>
+                                </connections>
+                            </scrollView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="FIn-UC-Tk9"/>
+                    <connections>
+                        <outlet property="scrollView" destination="ln9-5J-097" id="OWv-aD-SXa"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="3tb-C1-v66" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="581" y="-568"/>
+        </scene>
         <!--Table View Controller-->
         <scene sceneID="Zh7-D4-mTO">
             <objects>
@@ -15,15 +42,15 @@
                         <sections>
                             <tableViewSection id="Q7a-Ly-z0j">
                                 <cells>
-                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="zPS-Km-7Q9" style="IBUITableViewCellStyleDefault" id="Vst-Up-sMF">
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="zPS-Km-7Q9" style="IBUITableViewCellStyleDefault" id="Vst-Up-sMF">
                                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
-                                            <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="300" height="43"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Image Scroll" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="zPS-Km-7Q9">
-                                                    <rect key="frame" x="10" y="0.0" width="300" height="43"/>
+                                                    <rect key="frame" x="10" y="0.0" width="280" height="43"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                     <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
                                                     <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -32,6 +59,9 @@
                                             </subviews>
                                             <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                         </view>
+                                        <connections>
+                                            <segue destination="5Rd-ub-agA" kind="push" id="Rjb-rP-uBU"/>
+                                        </connections>
                                     </tableViewCell>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="JWL-oz-3Fy" style="IBUITableViewCellStyleDefault" id="bI3-wc-Euv">
                                         <rect key="frame" x="0.0" y="44" width="320" height="44"/>
@@ -120,6 +150,14 @@
             <point key="canvasLocation" x="-275" y="89"/>
         </scene>
     </scenes>
+    <classes>
+        <class className="ViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="scrollView" candidateClass="UIScrollView"/>
+            </relationships>
+        </class>
+    </classes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
         <simulatedOrientationMetrics key="orientation"/>
