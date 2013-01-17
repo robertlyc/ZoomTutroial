@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E18DA3D816A8ADD900F75AA5 /* PeekPagedScrollViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E18DA3D716A8ADD900F75AA5 /* PeekPagedScrollViewController.m */; };
 		E1B8C0A616A89DBB003B4187 /* PagedScrollViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1B8C0A516A89DBB003B4187 /* PagedScrollViewController.m */; };
 		E1F13C9516A7D63A004C3F0F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1F13C9416A7D63A004C3F0F /* UIKit.framework */; };
 		E1F13C9716A7D63A004C3F0F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1F13C9616A7D63A004C3F0F /* Foundation.framework */; };
@@ -29,6 +30,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E18DA3D616A8ADD900F75AA5 /* PeekPagedScrollViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PeekPagedScrollViewController.h; sourceTree = "<group>"; };
+		E18DA3D716A8ADD900F75AA5 /* PeekPagedScrollViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PeekPagedScrollViewController.m; sourceTree = "<group>"; };
 		E1B8C0A416A89DBB003B4187 /* PagedScrollViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PagedScrollViewController.h; sourceTree = "<group>"; };
 		E1B8C0A516A89DBB003B4187 /* PagedScrollViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PagedScrollViewController.m; sourceTree = "<group>"; };
 		E1F13C9016A7D63A004C3F0F /* ZoomTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZoomTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -111,6 +114,8 @@
 				E1F13CDA16A89416004C3F0F /* CustomScrollViewController.m */,
 				E1B8C0A416A89DBB003B4187 /* PagedScrollViewController.h */,
 				E1B8C0A516A89DBB003B4187 /* PagedScrollViewController.m */,
+				E18DA3D616A8ADD900F75AA5 /* PeekPagedScrollViewController.h */,
+				E18DA3D716A8ADD900F75AA5 /* PeekPagedScrollViewController.m */,
 				E1F13C9B16A7D63A004C3F0F /* Supporting Files */,
 			);
 			path = ZoomTutorial;
@@ -220,6 +225,7 @@
 				E1F13CB116A7D63A004C3F0F /* ViewController.m in Sources */,
 				E1F13CDB16A89416004C3F0F /* CustomScrollViewController.m in Sources */,
 				E1B8C0A616A89DBB003B4187 /* PagedScrollViewController.m in Sources */,
+				E18DA3D816A8ADD900F75AA5 /* PeekPagedScrollViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
