@@ -26,7 +26,6 @@
 	
     UIImage *image = [UIImage imageNamed:@"photo1.png"];
     self.imageView = [[UIImageView alloc] initWithImage:image];
-    //self.imageView.frame = (CGRect){.origin=CGPointMake(0.0f, 0.0f), .size=image.size};
     [self.scrollView addSubview:self.imageView];
     
     self.scrollView.contentSize = image.size;
@@ -77,7 +76,7 @@
 }
 
 - (void)scrollViewDoubleTapped:(UITapGestureRecognizer *)recognizer {
-    CGPoint pointInView = [recognizer locationInView:self.view];
+    CGPoint pointInView = [recognizer locationInView:self.imageView];
     
     CGFloat newZoomScale = self.scrollView.zoomScale * 1.5;
     newZoomScale = MIN(newZoomScale, self.scrollView.maximumZoomScale);
@@ -89,7 +88,7 @@
     CGFloat x = pointInView.x - (w / 2.0);
     CGFloat y = pointInView.y - (h / 2.0);
     
-    CGRect  rectToZoomTo = CGRectMake(w, h, x, y);
+    CGRect  rectToZoomTo = CGRectMake(x, y, w, h);
     
     [self.scrollView zoomToRect:rectToZoomTo animated:YES];
 }
@@ -113,6 +112,16 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
+{
+    return (interfaceOrientation != UIInterfaceOrientationPortraitUpsideDown);
+}
+
+- (void)viewDidUnload {
+    [super viewDidUnload];
+    _imageView = nil;
 }
 
 @end
