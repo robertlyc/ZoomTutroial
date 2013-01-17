@@ -24,6 +24,7 @@
 		E1F13CD216A7E1E2004C3F0F /* photo4.png in Resources */ = {isa = PBXBuildFile; fileRef = E1F13CCC16A7E1E2004C3F0F /* photo4.png */; };
 		E1F13CD316A7E1E2004C3F0F /* photo5.png in Resources */ = {isa = PBXBuildFile; fileRef = E1F13CCD16A7E1E2004C3F0F /* photo5.png */; };
 		E1F13CD416A7E1E2004C3F0F /* slow.png in Resources */ = {isa = PBXBuildFile; fileRef = E1F13CCE16A7E1E2004C3F0F /* slow.png */; };
+		E1F13CDB16A89416004C3F0F /* CustomScrollViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1F13CDA16A89416004C3F0F /* CustomScrollViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,8 @@
 		E1F13CCC16A7E1E2004C3F0F /* photo4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo4.png; sourceTree = "<group>"; };
 		E1F13CCD16A7E1E2004C3F0F /* photo5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo5.png; sourceTree = "<group>"; };
 		E1F13CCE16A7E1E2004C3F0F /* slow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = slow.png; sourceTree = "<group>"; };
+		E1F13CD916A89416004C3F0F /* CustomScrollViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomScrollViewController.h; sourceTree = "<group>"; };
+		E1F13CDA16A89416004C3F0F /* CustomScrollViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomScrollViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +104,8 @@
 				E1F13CAC16A7D63A004C3F0F /* MainStoryboard.storyboard */,
 				E1F13CAF16A7D63A004C3F0F /* ViewController.h */,
 				E1F13CB016A7D63A004C3F0F /* ViewController.m */,
+				E1F13CD916A89416004C3F0F /* CustomScrollViewController.h */,
+				E1F13CDA16A89416004C3F0F /* CustomScrollViewController.m */,
 				E1F13C9B16A7D63A004C3F0F /* Supporting Files */,
 			);
 			path = ZoomTutorial;
@@ -208,6 +213,7 @@
 				E1F13CA116A7D63A004C3F0F /* main.m in Sources */,
 				E1F13CA516A7D63A004C3F0F /* AppDelegate.m in Sources */,
 				E1F13CB116A7D63A004C3F0F /* ViewController.m in Sources */,
+				E1F13CDB16A89416004C3F0F /* CustomScrollViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
