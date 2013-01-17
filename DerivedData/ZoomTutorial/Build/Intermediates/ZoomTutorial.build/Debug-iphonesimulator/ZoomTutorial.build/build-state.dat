@@ -1,0 +1,449 @@
+TZoomTutorial
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Info.plist ZoomTutorial/ZoomTutorial-Info.plist
+cProcessPCH /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dmbbowdycmnuaretdufrpaxkrnlb/ZoomTutorial-Prefix.pch.pth ZoomTutorial/ZoomTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/main.o /Users/robert/Projects/ZoomTutorial/ZoomTutorial/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/ViewController.o /Users/robert/Projects/ZoomTutorial/ZoomTutorial/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/AppDelegate.o /Users/robert/Projects/ZoomTutorial/ZoomTutorial/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/ZoomTutorial normal i386
+cGenerateDSYMFile /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app.dSYM /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/ZoomTutorial
+cCompileStoryboard /Users/robert/Projects/ZoomTutorial/ZoomTutorial/en.lproj/MainStoryboard.storyboard
+cCpResource ZoomTutorial/Default.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default.png
+cCopyStringsFile /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/en.lproj/InfoPlist.strings ZoomTutorial/en.lproj/InfoPlist.strings
+cCpResource ZoomTutorial/Default-568h@2x.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default-568h@2x.png
+cCpResource ZoomTutorial/Default@2x.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default@2x.png
+cCpResource images/photo1.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo1.png
+cCpResource images/photo3.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo3.png
+cCpResource images/photo2.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo2.png
+cCpResource images/photo4.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo4.png
+cCpResource images/photo5.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo5.png
+cCpResource images/slow.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/slow.png
+cTouch /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000509355180000000000000110
+t1351832856
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000505A831E0000000000228FD0
+t1348109086
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505A831F00000000003DCEF0
+t1348109087
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000505A831F00000000000015F7
+t1348109087
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000505A83260000000000000E8D
+t1348109094
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000505A83270000000000AB3D60
+t1348109095
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000505A83300000000000001B54
+t1348109104
+s6996
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dexmeribkctigsaavsbjahthqorh/ZoomTutorial-Prefix.pch.pth
+t2
+s0
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dmbbowdycmnuaretdufrpaxkrnlb/ZoomTutorial-Prefix.pch.pth
+t1358409756
+s4837152
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/AppDelegate.o
+t1358409756
+s86352
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/ViewController.o
+t1358409756
+s67528
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/ZoomTutorial.LinkFileList
+c0000000050F7B01C0000000000000209
+t1358409756
+s521
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/main.o
+t1358409756
+s3300
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app
+t1358409757
+s510
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app.dSYM
+t1358409756
+s102
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default-568h@2x.png
+t1358409757
+s18594
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default.png
+t1358409757
+s6540
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default@2x.png
+t1358409757
+s16107
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Info.plist
+t1358409756
+s858
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/PkgInfo
+t1358409756
+s8
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/ZoomTutorial
+t1358409756
+s27680
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/en.lproj/InfoPlist.strings
+t1358409757
+s42
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/en.lproj/MainStoryboard.storyboardc
+t1358409757
+s170
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo1.png
+t1358409757
+s1462847
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo2.png
+t1358409757
+s1566451
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo3.png
+t1358409757
+s1500990
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo4.png
+t1358409757
+s1136496
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo5.png
+t1358409757
+s1464136
+
+N/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/slow.png
+t1358409757
+s76336
+
+N/Users/robert/Projects/ZoomTutorial/ZoomTutorial/AppDelegate.h
+c0000000050F79EBA0000000000000113
+t1358405306
+s275
+
+N/Users/robert/Projects/ZoomTutorial/ZoomTutorial/AppDelegate.m
+c0000000050F79EBA00000000000007D5
+t1358405306
+s2005
+
+N/Users/robert/Projects/ZoomTutorial/ZoomTutorial/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/robert/Projects/ZoomTutorial/ZoomTutorial/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/robert/Projects/ZoomTutorial/ZoomTutorial/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/robert/Projects/ZoomTutorial/ZoomTutorial/ViewController.h
+c0000000050F79EBA00000000000000D5
+t1358405306
+s213
+
+N/Users/robert/Projects/ZoomTutorial/ZoomTutorial/ViewController.m
+c0000000050F79EBA00000000000001EB
+t1358405306
+s491
+
+N/Users/robert/Projects/ZoomTutorial/ZoomTutorial/ZoomTutorial-Prefix.pch
+c0000000050F79EBA0000000000000147
+t1358405306
+s327
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/robert/Projects/ZoomTutorial/ZoomTutorial/en.lproj/InfoPlist.strings
+c0000000050F79EBA000000000000002D
+t1358405306
+s45
+
+N/Users/robert/Projects/ZoomTutorial/ZoomTutorial/en.lproj/MainStoryboard.storyboard
+c0000000050F7B0240000000000002D08
+t1358409764
+s11528
+
+N/Users/robert/Projects/ZoomTutorial/ZoomTutorial/main.m
+c0000000050F79EBA000000000000014E
+t1358405306
+s334
+
+N/Users/robert/Projects/ZoomTutorial/images/photo1.png
+c000000004F4C965E000000000016523F
+t1330419294
+s1462847
+
+N/Users/robert/Projects/ZoomTutorial/images/photo2.png
+c000000004F4D3898000000000017E6F3
+t1330460824
+s1566451
+
+N/Users/robert/Projects/ZoomTutorial/images/photo3.png
+c000000004F4D38A6000000000016E73E
+t1330460838
+s1500990
+
+N/Users/robert/Projects/ZoomTutorial/images/photo4.png
+c000000004F4D38B60000000000115770
+t1330460854
+s1136496
+
+N/Users/robert/Projects/ZoomTutorial/images/photo5.png
+c000000004F4D38D60000000000165748
+t1330460886
+s1464136
+
+N/Users/robert/Projects/ZoomTutorial/images/slow.png
+c000000004F4DF49C0000000000012A30
+t1330508956
+s76336
+
+NZoomTutorial/ZoomTutorial-Info.plist
+c0000000050F79EBA00000000000004D4
+t1358405306
+s1236
+
+CBuild AST from /Users/robert/Projects/ZoomTutorial/ZoomTutorial/AppDelegate.m
+r0
+
+CBuild AST from /Users/robert/Projects/ZoomTutorial/ZoomTutorial/ViewController.m
+r0
+
+CBuild AST from /Users/robert/Projects/ZoomTutorial/ZoomTutorial/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese19570a4e7a7b641^79e57aa4e7a7b641^---0#1#0#--18"Check dependencies36"409B9FAC-C13B-4462-B064-690A6AED278E-
+
+CCompileC DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/AppDelegate.o /Users/robert/Projects/ZoomTutorial/ZoomTutorial/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380102556.880954
+e380102556.943558
+r1
+xCompileC
+xDerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/AppDelegate.o
+x/Users/robert/Projects/ZoomTutorial/ZoomTutorial/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/robert/Projects/ZoomTutorial/ZoomTutorial/AppDelegate.me0a0e19ce7a7b641^d28cf19ce7a7b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/robert/Projects/ZoomTutorial/ZoomTutorial/AppDelegate.m0000000000000000^4086"CompileC DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/AppDelegate.o ZoomTutorial/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robert/Projects/ZoomTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-generated-files.hmap -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-own-target-headers.hmap -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-all-target-headers.hmap -iquote /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-project-headers.hmap -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/DerivedSources/i386 -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/DerivedSources -F/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator -include /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dmbbowdycmnuaretdufrpaxkrnlb/ZoomTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/AppDelegate.dia -c /Users/robert/Projects/ZoomTutorial/ZoomTutorial/AppDelegate.m -o /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/AppDelegate.o36"7E86EA1A-FB41-4614-B64D-28DFF9BEB08D-
+
+CCompileC DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/ViewController.o /Users/robert/Projects/ZoomTutorial/ZoomTutorial/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380102556.880966
+e380102556.942870
+r1
+xCompileC
+xDerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/ViewController.o
+x/Users/robert/Projects/ZoomTutorial/ZoomTutorial/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/robert/Projects/ZoomTutorial/ZoomTutorial/ViewController.mf1a0e19ce7a7b641^5260f19ce7a7b641^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/robert/Projects/ZoomTutorial/ZoomTutorial/ViewController.m0000000000000000^4104"CompileC DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/ViewController.o ZoomTutorial/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robert/Projects/ZoomTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-generated-files.hmap -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-own-target-headers.hmap -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-all-target-headers.hmap -iquote /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-project-headers.hmap -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/DerivedSources/i386 -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/DerivedSources -F/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator -include /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dmbbowdycmnuaretdufrpaxkrnlb/ZoomTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/ViewController.dia -c /Users/robert/Projects/ZoomTutorial/ZoomTutorial/ViewController.m -o /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/ViewController.o36"B19EA779-408B-4E24-9ED1-E1128E46AEF6-
+
+CCompileC DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/main.o /Users/robert/Projects/ZoomTutorial/ZoomTutorial/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380102556.880945
+e380102556.935465
+r1
+xCompileC
+xDerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/main.o
+x/Users/robert/Projects/ZoomTutorial/ZoomTutorial/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/robert/Projects/ZoomTutorial/ZoomTutorial/main.ma19fe19ce7a7b641^d07bef9ce7a7b641^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/Users/robert/Projects/ZoomTutorial/ZoomTutorial/main.m0000000000000000^4044"CompileC DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/main.o ZoomTutorial/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robert/Projects/ZoomTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-generated-files.hmap -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-own-target-headers.hmap -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-all-target-headers.hmap -iquote /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-project-headers.hmap -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/DerivedSources/i386 -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/DerivedSources -F/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator -include /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dmbbowdycmnuaretdufrpaxkrnlb/ZoomTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/main.dia -c /Users/robert/Projects/ZoomTutorial/ZoomTutorial/main.m -o /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/main.o36"B44FC5B3-BC47-46CF-B72D-05F3331A48C6-
+
+CCompileStoryboard /Users/robert/Projects/ZoomTutorial/ZoomTutorial/en.lproj/MainStoryboard.storyboard
+s380102564.521013
+e380102564.606891
+r1
+xCompileStoryboard
+x/Users/robert/Projects/ZoomTutorial/ZoomTutorial/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"CompileStoryboard ZoomTutorial/en.lproj/MainStoryboard.storyboarda67b85a4e7a7b641^425e9ba4e7a7b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/robert/Projects/ZoomTutorial/ZoomTutorial/en.lproj/MainStoryboard.storyboard0000000000000000^984"CompileStoryboard ZoomTutorial/en.lproj/MainStoryboard.storyboard    cd /Users/robert/Projects/ZoomTutorial    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/en.lproj/MainStoryboard.storyboardc /Users/robert/Projects/ZoomTutorial/ZoomTutorial/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"BC8BC727-997C-43F1-A1D0-E8A134F671B2-
+
+CCopyStringsFile /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/en.lproj/InfoPlist.strings ZoomTutorial/en.lproj/InfoPlist.strings
+s380102557.010686
+e380102557.013039
+r1
+xCopyStringsFile
+x/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/en.lproj/InfoPlist.strings
+xZoomTutorial/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ZoomTutorial/en.lproj/InfoPlist.stringsa1d8029de7a7b641^1d57039de7a7b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/robert/Projects/ZoomTutorial/ZoomTutorial/en.lproj/InfoPlist.strings0000000000000000^657"CopyStringsFile DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/en.lproj/InfoPlist.strings ZoomTutorial/en.lproj/InfoPlist.strings    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/en.lproj -- ZoomTutorial/en.lproj/InfoPlist.strings36"C586E120-8E4B-4E2D-A692-E6A193B9210A-
+
+CCpResource ZoomTutorial/Default-568h@2x.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default-568h@2x.png
+s380102557.010691
+e380102557.015198
+r1
+xCpResource
+xZoomTutorial/Default-568h@2x.png
+xDerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default-568h@2x.png98da029de7a7b641^e6e6039de7a7b641^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default-568h@2x.png000000000080d041^683"CpResource "ZoomTutorial/Default-568h@2x.png" "DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default-568h@2x.png"    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/robert/Projects/ZoomTutorial/ZoomTutorial/Default-568h@2x.png" /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app36"03A4AA20-E388-49C1-AB8A-067CC896F7D7-
+
+CCpResource ZoomTutorial/Default.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default.png
+s380102557.010662
+e380102557.014038
+r1
+xCpResource
+xZoomTutorial/Default.png
+xDerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default.pngf5d8029de7a7b641^7498039de7a7b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default.png000000000080d041^653"CpResource ZoomTutorial/Default.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default.png    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/robert/Projects/ZoomTutorial/ZoomTutorial/Default.png /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app36"C887833B-E4A6-4ECF-B7EA-3C6E149EED8B-
+
+CCpResource ZoomTutorial/Default@2x.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default@2x.png
+s380102557.010678
+e380102557.017647
+r1
+xCpResource
+xZoomTutorial/Default@2x.png
+xDerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default@2x.pngbed9029de7a7b641^0a85049de7a7b641^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default@2x.png000000000080d041^668"CpResource "ZoomTutorial/Default@2x.png" "DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Default@2x.png"    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/robert/Projects/ZoomTutorial/ZoomTutorial/Default@2x.png" /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app36"0981D0C0-D93A-4102-9D99-6FB7A5F1EBE4-
+
+CCpResource images/photo1.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo1.png
+s380102557.010724
+e380102557.021331
+r1
+xCpResource
+ximages/photo1.png
+xDerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo1.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo1.png73db029de7a7b641^0476059de7a7b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo1.png000000000080d041^638"CpResource images/photo1.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo1.png    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/robert/Projects/ZoomTutorial/images/photo1.png /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app36"CDB4701D-BEB3-4D06-B4BA-B1F8F06AAED8-
+
+CCpResource images/photo2.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo2.png
+s380102557.010750
+e380102557.041662
+r1
+xCpResource
+ximages/photo2.png
+xDerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo2.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo2.png16dd029de7a7b641^f3aa0a9de7a7b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo2.png000000000080d041^638"CpResource images/photo2.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo2.png    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/robert/Projects/ZoomTutorial/images/photo2.png /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app36"253D5150-55E9-4941-B008-9624959EE0D8-
+
+CCpResource images/photo3.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo3.png
+s380102557.010960
+e380102557.041899
+r1
+xCpResource
+ximages/photo3.png
+xDerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo3.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo3.png37e1029de7a7b641^38ba0a9de7a7b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo3.png000000000080d041^638"CpResource images/photo3.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo3.png    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/robert/Projects/ZoomTutorial/images/photo3.png /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app36"59222A97-6C16-433B-9F6C-3080186C1E6F-
+
+CCpResource images/photo4.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo4.png
+s380102557.014158
+e380102557.035653
+r1
+xCpResource
+ximages/photo4.png
+xDerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo4.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo4.png75ab039de7a7b641^2521099de7a7b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo4.png000000000080d041^638"CpResource images/photo4.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo4.png    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/robert/Projects/ZoomTutorial/images/photo4.png /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app36"2B006442-922B-4689-87D5-13A764B413CD-
+
+CCpResource images/photo5.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo5.png
+s380102557.014171
+e380102557.042157
+r1
+xCpResource
+ximages/photo5.png
+xDerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo5.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo5.pnga3ac039de7a7b641^efca0a9de7a7b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo5.png000000000080d041^638"CpResource images/photo5.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/photo5.png    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/robert/Projects/ZoomTutorial/images/photo5.png /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app36"B3B3ED33-925C-417C-8557-9CCED5E2DE49-
+
+CCpResource images/slow.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/slow.png
+s380102557.016361
+e380102557.025003
+r1
+xCpResource
+ximages/slow.png
+xDerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/slow.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/slow.pnge63b049de7a7b641^8866069de7a7b641^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/slow.png000000000080d041^632"CpResource images/slow.png DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/slow.png    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/robert/Projects/ZoomTutorial/images/slow.png /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app36"5DA24FA2-9BEA-4FA5-8DAF-5F6A95DCF975-
+
+CGenerateDSYMFile /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app.dSYM /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/ZoomTutorial
+s380102556.984410
+e380102557.002837
+r1
+xGenerateDSYMFile
+x/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app.dSYM
+x/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/ZoomTutorial
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Generating /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app.dSYMcf12fc9ce7a7b641^1fba009de7a7b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app.dSYM000000000080d041^782"GenerateDSYMFile DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app.dSYM DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/ZoomTutorial    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/ZoomTutorial -o /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app.dSYM36"57FC677C-7F72-489C-851E-C4B71306E8A3-
+
+CLd /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/ZoomTutorial normal i386
+s380102556.950329
+e380102556.977545
+r1
+xLd
+x/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/ZoomTutorial
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/ZoomTutorialfa5ef39ce7a7b641^b840fa9ce7a7b641^---0#0#0#--1342"Ld DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/ZoomTutorial normal i386    cd /Users/robert/Projects/ZoomTutorial    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator -F/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator -filelist /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/Objects-normal/i386/ZoomTutorial.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/ZoomTutorial36"DE019411-4F55-4A49-B6AE-B0E125F093EB-
+
+CProcessInfoPlistFile /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Info.plist ZoomTutorial/ZoomTutorial-Info.plist
+s380102556.523998
+e380102556.526701
+r1
+xProcessInfoPlistFile
+x/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Info.plist
+xZoomTutorial/ZoomTutorial-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process ZoomTutorial/ZoomTutorial-Info.plist8b33869ce7a7b641^82e7869ce7a7b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/robert/Projects/ZoomTutorial/ZoomTutorial/ZoomTutorial-Info.plist0000000000000000^778"ProcessInfoPlistFile DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Info.plist ZoomTutorial/ZoomTutorial-Info.plist    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ZoomTutorial/ZoomTutorial-Info.plist -genpkginfo /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app/Info.plist36"4B8314EB-FB57-4807-8CC7-4CE61E8F2CC1-
+
+CProcessPCH /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dexmeribkctigsaavsbjahthqorh/ZoomTutorial-Prefix.pch.pth ZoomTutorial/ZoomTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dmbbowdycmnuaretdufrpaxkrnlb/ZoomTutorial-Prefix.pch.pth ZoomTutorial/ZoomTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380102556.534236
+e380102556.874047
+r1
+xProcessPCH
+x/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dmbbowdycmnuaretdufrpaxkrnlb/ZoomTutorial-Prefix.pch.pth
+xZoomTutorial/ZoomTutorial-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile ZoomTutorial/ZoomTutorial-Prefix.pchf2ea889ce7a7b641^fcc2df9ce7a7b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/robert/Projects/ZoomTutorial/ZoomTutorial/ZoomTutorial-Prefix.pch0000000000000000^3937"ProcessPCH DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dmbbowdycmnuaretdufrpaxkrnlb/ZoomTutorial-Prefix.pch.pth ZoomTutorial/ZoomTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/robert/Projects/ZoomTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-generated-files.hmap -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-own-target-headers.hmap -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-all-target-headers.hmap -iquote /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/ZoomTutorial-project-headers.hmap -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/DerivedSources/i386 -I/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/ZoomTutorial.build/Debug-iphonesimulator/ZoomTutorial.build/DerivedSources -F/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dmbbowdycmnuaretdufrpaxkrnlb/ZoomTutorial-Prefix.pch.dia -c /Users/robert/Projects/ZoomTutorial/ZoomTutorial/ZoomTutorial-Prefix.pch -o /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dmbbowdycmnuaretdufrpaxkrnlb/ZoomTutorial-Prefix.pch.pth -MMD -MT dependencies -MF /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Intermediates/PrecompiledHeaders/ZoomTutorial-Prefix-dmbbowdycmnuaretdufrpaxkrnlb/ZoomTutorial-Prefix.pch.d36"9C4D310B-EA1C-4628-BDC9-A29DB9B6D7D7-
+
+CProcessPCH /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Index/PrecompiledHeaders/ZoomTutorial-Prefix-ffrvcwesebukzzbmgtvxzwltcipf_ast/ZoomTutorial-Prefix.pch.pth ZoomTutorial/ZoomTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Index/PrecompiledHeaders/ZoomTutorial-Prefix-gfxxwumdjyodnhdrscsryfucehbj_ast/ZoomTutorial-Prefix.pch.pth ZoomTutorial/ZoomTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app
+s380102564.614611
+e380102564.620071
+r1
+xTouch
+x/Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Touch /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app80659da4e7a7b641^5ebd9ea4e7a7b641^---0#0#0#--460"Touch DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app    cd /Users/robert/Projects/ZoomTutorial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/robert/Projects/ZoomTutorial/DerivedData/ZoomTutorial/Build/Products/Debug-iphonesimulator/ZoomTutorial.app36"B0F96FEF-D969-40A7-9297-29293F3C0D4F-
+
