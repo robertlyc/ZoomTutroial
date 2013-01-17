@@ -74,7 +74,7 @@
     
     self.scrollView.minimumZoomScale = minScale;
     self.scrollView.maximumZoomScale = 1.0;
-    self.scrollView.zoomScale = minScale; //1.0
+    self.scrollView.zoomScale = 1.0;
     
     [self centerScrollViewContents];
 }
