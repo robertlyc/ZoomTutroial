@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E163179F16A8B0F60082359E /* ScrollViewContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = E163179E16A8B0F60082359E /* ScrollViewContainer.m */; };
 		E18DA3D816A8ADD900F75AA5 /* PeekPagedScrollViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E18DA3D716A8ADD900F75AA5 /* PeekPagedScrollViewController.m */; };
 		E1B8C0A616A89DBB003B4187 /* PagedScrollViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1B8C0A516A89DBB003B4187 /* PagedScrollViewController.m */; };
 		E1F13C9516A7D63A004C3F0F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1F13C9416A7D63A004C3F0F /* UIKit.framework */; };
@@ -30,6 +31,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E163179D16A8B0F60082359E /* ScrollViewContainer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScrollViewContainer.h; sourceTree = "<group>"; };
+		E163179E16A8B0F60082359E /* ScrollViewContainer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScrollViewContainer.m; sourceTree = "<group>"; };
 		E18DA3D616A8ADD900F75AA5 /* PeekPagedScrollViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PeekPagedScrollViewController.h; sourceTree = "<group>"; };
 		E18DA3D716A8ADD900F75AA5 /* PeekPagedScrollViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PeekPagedScrollViewController.m; sourceTree = "<group>"; };
 		E1B8C0A416A89DBB003B4187 /* PagedScrollViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PagedScrollViewController.h; sourceTree = "<group>"; };
@@ -116,6 +119,8 @@
 				E1B8C0A516A89DBB003B4187 /* PagedScrollViewController.m */,
 				E18DA3D616A8ADD900F75AA5 /* PeekPagedScrollViewController.h */,
 				E18DA3D716A8ADD900F75AA5 /* PeekPagedScrollViewController.m */,
+				E163179D16A8B0F60082359E /* ScrollViewContainer.h */,
+				E163179E16A8B0F60082359E /* ScrollViewContainer.m */,
 				E1F13C9B16A7D63A004C3F0F /* Supporting Files */,
 			);
 			path = ZoomTutorial;
@@ -226,6 +231,7 @@
 				E1F13CDB16A89416004C3F0F /* CustomScrollViewController.m in Sources */,
 				E1B8C0A616A89DBB003B4187 /* PagedScrollViewController.m in Sources */,
 				E18DA3D816A8ADD900F75AA5 /* PeekPagedScrollViewController.m in Sources */,
+				E163179F16A8B0F60082359E /* ScrollViewContainer.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
